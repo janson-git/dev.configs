@@ -7,14 +7,14 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Droid Sans Mono Dotted" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
@@ -965,7 +965,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d12b5c" />
+        <option name="FOREGROUND" value="823e92" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -976,12 +976,12 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="d12b5c" />
+        <option name="FOREGROUND" value="823e92" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="ff596b" />
+        <option name="FOREGROUND" value="b850ba" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1007,12 +1007,12 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="fdfdff" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ed8d21" />
+        <option name="FOREGROUND" value="ff8400" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1038,7 +1038,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="2d2c21" />
+        <option name="BACKGROUND" value="2e2d27" />
       </value>
     </option>
     <option name="PHP_SEMICOLON">
@@ -1046,7 +1046,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="40dd30" />
+        <option name="FOREGROUND" value="56db3a" />
       </value>
     </option>
     <option name="PHP_TAG">
