@@ -113,6 +113,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
-COLOR_RED='\e[1;31m' COLOR_GREEN='\e[1;32m' NONE_COLOR='\e[0m'
+COLOR_RED='\e[1;31m' COLOR_GREEN='\e[1;32m' NONE_COLOR='\e[0m' BLUE_COLOR='\033[0;34m'
+GIT="$BLUE_COLOR\$(__git_ps1 '(%s)') "
 #export PS1="\[${COLOR_GREEN}\]\u@\h:\w $ \[$(tput sgr0)\]" 
-export PS1="\[${COLOR_GREEN}\]\u@\h:${COLOR_RED}\w ${COLOR_GREEN}$ \[$(tput sgr0)\]" 
+#export PS1="\[${COLOR_GREEN}\]\u@\h:\[${COLOR_RED}\]\w $GIT \[${COLOR_GREEN}\]$ \[$(tput sgr0)\]" 
+export PS1="\[${COLOR_GREEN}\]\u@\h:\[${COLOR_RED}\]\w \[${COLOR_GREEN}\]$ \[$(tput sgr0)\]"

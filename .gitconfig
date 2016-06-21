@@ -1,5 +1,6 @@
 [core]
 	excludesfile = ~/.gitignore-common
+	autocrlf = input
 
 [user]
 	name = ivan.janson
