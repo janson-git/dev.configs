@@ -10,3 +10,4 @@ some configs, settings, schemas of my development environments
 2. import latest version for PhpStorm2018 to your IDEA based software
 3. select "Symfony black" color scheme to use it
 
+![Symfony black color scheme](/screenshot/SymfonyBlackColorScheme.png?raw=true "Symfony black")
